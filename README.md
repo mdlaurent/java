@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/vanel-lawrencedongmo/AKS/_apis/build/status/mdlaurent.java?branchName=main&jobName=Job)](https://dev.azure.com/vanel-lawrencedongmo/AKS/_build/latest?definitionId=11&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
